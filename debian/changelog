@@ -1,3 +1,9 @@
+shim-helpers-amd64-signed (1+15.8+1deepin1) unstable; urgency=medium
+
+  * Update to shim 15.8-1deepin1 and signed
+
+ -- zhouzilong <zhouzilong@uniontech.com>  Thu, 05 Nov 2026 10:49:56 +0800
+
 shim-helpers-amd64-signed (1+15.4+7) UNRELEASED; urgency=medium
 
   * update
